@@ -1,0 +1,22 @@
+_repo: One-Thousand-Questions-in-California-Agriculture-Answered_5152
+creator:
+  author:
+    agent_name: Wickson, Edward J. (Edward James)
+    birthdate: 1848
+    deathdate: 1923
+    gutenberg_agent_id: '1713'
+    url: http://www.gutenberg.org/2009/agents/1713
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5152'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Agriculture -- California'
+- !lcc 'S'
+title: One Thousand Questions in California Agriculture Answered
+url: http://www.gutenberg.org/ebooks/5152

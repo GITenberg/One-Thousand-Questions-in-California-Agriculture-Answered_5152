@@ -1,5 +1,5 @@
 _repo: One-Thousand-Questions-in-California-Agriculture-Answered_5152
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -24,5 +24,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Agriculture -- California'
 - !lcc 'S'
+- GITenberg
 title: One Thousand Questions in California Agriculture Answered
 url: http://www.gutenberg.org/ebooks/5152
